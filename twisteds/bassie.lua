@@ -39,23 +39,23 @@ do
 	do
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://121233896755491"
+		idle.AnimationId = "rbxassetid://72811631558470"
 		idle.Parent = animations
 		local run = Instance.new("Animation")
 		run.Name = "Run"
-		run.AnimationId = "rbxassetid://89584885025243"
+		run.AnimationId = "rbxassetid://80250651929564"
 		run.Parent = animations
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://120526879354936"
+		walk.AnimationId = "rbxassetid://130316854498842"
 		walk.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
-		attack.AnimationId = "rbxassetid://76549642504994"
+		attack.AnimationId = "rbxassetid://86896889708382"
 		attack.Parent = animations
 		local lostInterest = Instance.new("Animation")
 		lostInterest.Name = "LostInterest"
-		lostInterest.AnimationId = "rbxassetid://116237950893150"
+		lostInterest.AnimationId = "rbxassetid://139011044166224"
 		lostInterest.Parent = animations
 	end
 	animations.Parent = bassieMonster
