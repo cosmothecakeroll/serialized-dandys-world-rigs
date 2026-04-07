@@ -50,19 +50,19 @@ do
 	do
 		local run = Instance.new("Animation")
 		run.Name = "Run"
-		run.AnimationId = "rbxassetid://135387112483307"
+		run.AnimationId = "rbxassetid://134803511177431"
 		run.Parent = animations
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://110115284810236"
+		walk.AnimationId = "rbxassetid://70943522849975"
 		walk.Parent = animations
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://118501282301097"
+		idle.AnimationId = "rbxassetid://94997531878151"
 		idle.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
-		attack.AnimationId = "rbxassetid://137869983172976"
+		attack.AnimationId = "rbxassetid://129440980737755"
 		attack.Parent = animations
 	end
 	animations.Parent = eggsonMonster
