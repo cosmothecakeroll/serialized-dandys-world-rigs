@@ -8,23 +8,23 @@ do
 	do
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
-		attack.AnimationId = "rbxassetid://93580940361745"
+		attack.AnimationId = "rbxassetid://85919717023303"
 		attack.Parent = animations
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://120904949814796"
+		idle.AnimationId = "rbxassetid://116481247301256"
 		idle.Parent = animations
 		local lostInterest = Instance.new("Animation")
 		lostInterest.Name = "LostInterest"
-		lostInterest.AnimationId = "rbxassetid://118652829763096"
+		lostInterest.AnimationId = "rbxassetid://101562397422358"
 		lostInterest.Parent = animations
 		local run = Instance.new("Animation")
 		run.Name = "Run"
-		run.AnimationId = "rbxassetid://106872867301686"
+		run.AnimationId = "rbxassetid://99355157689749"
 		run.Parent = animations
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://117992601726111"
+		walk.AnimationId = "rbxassetid://111132998582131"
 		walk.Parent = animations
 	end
 	animations.Parent = shrimpoMonster
