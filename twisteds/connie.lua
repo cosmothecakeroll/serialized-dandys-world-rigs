@@ -20,23 +20,23 @@ do
 	do
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://140330938263834"
+		idle.AnimationId = "rbxassetid://140696695675999"
 		idle.Parent = animations
 		local run = Instance.new("Animation")
 		run.Name = "Run"
-		run.AnimationId = "rbxassetid://96128698188480"
+		run.AnimationId = "rbxassetid://81505996760447"
 		run.Parent = animations
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://128536912884487"
+		walk.AnimationId = "rbxassetid://73609609622544"
 		walk.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
-		attack.AnimationId = "rbxassetid://81161715500671"
+		attack.AnimationId = "rbxassetid://123465626752220"
 		attack.Parent = animations
 		local lostInterest = Instance.new("Animation")
 		lostInterest.Name = "LostInterest"
-		lostInterest.AnimationId = "rbxassetid://94829051717514"
+		lostInterest.AnimationId = "rbxassetid://88637009290048"
 		lostInterest.Parent = animations
 	end
 	animations.Parent = connieMonster
