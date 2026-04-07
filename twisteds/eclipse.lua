@@ -8,28 +8,28 @@ do
 	do
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://98731638361092"
+		walk.AnimationId = "rbxassetid://111415947717115"
 		walk.Parent = animations
 		local run = Instance.new("Animation")
 		run.Name = "Run"
-		run.AnimationId = "rbxassetid://72507992938428"
+		run.AnimationId = "rbxassetid://111138216843634"
 		run.Parent = animations
 		local lostInterest = Instance.new("Animation")
 		lostInterest.Name = "LostInterest"
-		lostInterest.AnimationId = "rbxassetid://138530096612706"
+		lostInterest.AnimationId = "rbxassetid://110932578991747"
 		lostInterest.Parent = animations
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://126267212700731"
+		idle.AnimationId = "rbxassetid://101719797746517"
 		idle.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
-		attack.AnimationId = "rbxassetid://83455941124282"
+		attack.AnimationId = "rbxassetid://108473465812216"
 		attack.Parent = animations
-		local howl = Instance.new("Animation")
-		howl.Name = "Howl"
-		howl.AnimationId = "rbxassetid://91695866810766"
-		howl.Parent = animations
+		local ability = Instance.new("Animation")
+		ability.Name = "Howl"
+		ability.AnimationId = "rbxassetid://77203626514357"
+		ability.Parent = animations
 	end
 	animations.Parent = eclipseMonster
 	local config = Instance.new("Configuration")
