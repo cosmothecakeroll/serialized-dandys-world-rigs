@@ -58,15 +58,15 @@ do
 	do
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://74348127430904"
+		walk.AnimationId = "rbxassetid://88563553283443"
 		walk.Parent = animations
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://98494698502794"
+		idle.AnimationId = "rbxassetid://121673945983918"
 		idle.Parent = animations
 		local lostInterest = Instance.new("Animation")
 		lostInterest.Name = "LostInterest"
-		lostInterest.AnimationId = "rbxassetid://131520124983017"
+		lostInterest.AnimationId = "rbxassetid://130546312668959"
 		lostInterest.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
@@ -74,7 +74,7 @@ do
 		attack.Parent = animations
 		local run = Instance.new("Animation")
 		run.Name = "Run"
-		run.AnimationId = "rbxassetid://75510099781678"
+		run.AnimationId = "rbxassetid://125313721011936"
 		run.Parent = animations
 	end
 	animations.Parent = shellyMonster
