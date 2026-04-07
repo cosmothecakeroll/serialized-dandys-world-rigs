@@ -1,5 +1,3 @@
--- missing twisted anims for astro, poppy, and shelly
-
 return {
 	toonsandtwisteds = {
 		astro = "Astro",
