@@ -6,7 +6,7 @@ includes all the toons and their skins as well as their twisted counterparts, an
 
 # credits
 
-**all rigs and models** made by [BlushCrunch Studios](https://www.roblox.com/communities/14576965/BlushCrunch-Studio#!/about)
+**all assets** made by [BlushCrunch Studios](https://www.roblox.com/communities/14576965/BlushCrunch-Studio#!/about)
 
 **all rigs and models** were from a **.rbxm** file provided by **rafa (@rafas1to on Discord)**
 
