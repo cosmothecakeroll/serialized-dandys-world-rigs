@@ -2,7 +2,7 @@
 
 every rig and model was painstakingly **serialized** (from model → script) manually using [Darkceius' Instance Serializer](https://create.roblox.com/store/asset/128675874900923/Instance-Serializer) because who uses automated systems ahaHAhaha
 
-includes all the toons and their skins as well as their twisted counterparts, items (excluding the enigma candy), and maps
+includes all the toons and their skins as well as their twisted counterparts, items (excluding the enigma candy), maps, and some other stuff
 
 # credits
 
